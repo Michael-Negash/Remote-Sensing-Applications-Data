@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20241204</CreaDate><CreaTime>18494700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Image Analyst Tools.tbx\RasterCalculator" Date="20241204" Time="184947">RasterCalculator Float(("NBR_PreFire.tif"-"NBR_PostFire.tif")) C:\Users\balle\Downloads\GGR\A3\PartB\dNBR.tif</Process></lineage></DataProperties></Esri></metadata>
