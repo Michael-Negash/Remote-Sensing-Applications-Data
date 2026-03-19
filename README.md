@@ -6,7 +6,8 @@ This project uses satellite imagery to answer three real-world environmental que
 - **How bad was this wildfire?** — mapped using burn severity index (dNBR)
 - **What's on this land?** — classified using Landsat 8 spectral bands
 
-Once the raster analysis is complete in ArcGIS Pro, the results are exported as attribute tables and loaded into a SQL database — making it possible to filter, aggregate, and summarize findings without reopening the GIS software. For example, querying which pixels had negative NDVI, how much area fell into each burn severity class, or how different land cover types compare in NIR reflectance.
+A **SQL database** is used to store the results after raster analysis is complete in ArcGIS Pro, where the outputs are exported as attribute tables and then loaded for further analysis.
+— making it possible to filter, aggregate, and summarize findings without reopening the GIS software. For example, querying which pixels had negative NDVI, how much area fell into each burn severity class, or how different land cover types compare in NIR reflectance.
 
 All analysis was done in **ArcGIS Pro** and **ERDAS Imagine**, with results queried using **SQL**.
 
